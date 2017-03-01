@@ -1,2 +1,2 @@
-Git is a version control systems.
-Git is software distributed under GPL.
+on dev
+
