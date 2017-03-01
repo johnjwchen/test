@@ -1,3 +1,2 @@
-adfast test
-fuck git add
-asdfasdf.
+Git is a distributed version control systems.
+Git is free software distributed under GPL.
